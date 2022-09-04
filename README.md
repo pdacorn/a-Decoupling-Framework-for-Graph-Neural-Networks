@@ -1,2 +1,2 @@
-# BBAD
+# A Block-Based Adaptive Decoupling Framework for Graph Neural Networks
 code for paper ” A Block-Based Adaptive Decoupling Framework for Graph Neural Networks“
